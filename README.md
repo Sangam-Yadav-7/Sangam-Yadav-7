@@ -1,7 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Sangam 👋
-
+## Hi, I'm Sangam 👋
 Aspiring Data Analyst | Finance & Analytics Enthusiast  
 Skilled in Python, SQL, Statistics, and Machine Learning
 <!--
