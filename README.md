@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# Hi, I'm Sangam 👋
+
+Aspiring Data Analyst | Finance & Analytics Enthusiast  
+Skilled in Python, SQL, Statistics, and Machine Learning
 <!--
 **Sangam-Yadav-7/Sangam-Yadav-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
