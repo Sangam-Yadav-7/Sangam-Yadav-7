@@ -17,7 +17,7 @@ I enjoy turning raw data into meaningful insights, building dashboards, developi
 * 📈 Building dashboards with **Power BI & Tableau**
 * 🗄️ Working with **SQL & MySQL**
 * 🧠 Exploring **Deep Learning with PyTorch**
-* 🔧 Learning Git & GitHub for professional development
+* 🔧 Using Git & GitHub for development
 * 💡 Interested in real-world Data & AI projects
 
 ---
@@ -138,7 +138,7 @@ I enjoy turning raw data into meaningful insights, building dashboards, developi
 <img src="https://skillicons.dev/icons?i=git" width="50"/>
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/Sangam-Yadav-7">
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
@@ -148,7 +148,7 @@ I enjoy turning raw data into meaningful insights, building dashboards, developi
 
 </p>
 
-**Git • GitHub • VS Code • Jupyter Notebook • Anaconda**
+**Git • GitHub • VS Code • Jupyter Notebook**
 
 ---
 
@@ -180,109 +180,13 @@ I enjoy turning raw data into meaningful insights, building dashboards, developi
 
 ---
 
-# 🚀 Featured Projects
-
-### 📊 Superstore Sales & Customer Analytics
-
-**Tools:** `Python` `Pandas` `SQL` `Tableau`
-
-* Analyzed retail sales and customer data
-* Performed data cleaning and exploratory analysis
-* Created interactive dashboards
-* Identified sales trends and customer insights
-
----
-
-### 💳 Loan Approval Prediction
-
-**Tools:** `Python` `Pandas` `NumPy` `Scikit-learn`
-
-* Built a Machine Learning model for loan approval prediction
-* Performed data preprocessing and feature engineering
-* Compared ML algorithms
-* Evaluated model performance
-
----
-
-### 🚕 Cab Booking Management System
-
-**Tools:** `MySQL` `SQL`
-
-* Designed a relational database
-* Created tables for users, drivers, bookings and payments
-* Used joins, constraints and aggregations
-* Analyzed booking and customer data
-
----
-
-### 🏋️ Health & Fitness Tracker
-
-**Tools:** `MySQL` `SQL`
-
-* Designed a fitness-management database
-* Stored user activity and health-related records
-* Used SQL queries to generate analytical insights
-
----
-
-# 📈 Currently Learning
-
-```text
-Python
-   ↓
-Pandas + NumPy
-   ↓
-SQL + MySQL
-   ↓
-Statistics
-   ↓
-Data Visualization
-   ↓
-Power BI + Tableau
-   ↓
-Machine Learning
-   ↓
-Scikit-learn
-   ↓
-Deep Learning
-   ↓
-PyTorch + TensorFlow
-   ↓
-AI / Generative AI
-```
-
----
-
-# 🎯 Career Interests
-
-I'm currently interested in opportunities related to:
-
-* 📊 Data Analyst
-* 🤖 Machine Learning Engineer
-* 🧠 AI Engineer
-* 🐍 Python Developer
-* 📈 Data Scientist
-* 🔬 ML/Data Science Internships
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SangamYadav&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sangam-Yadav-7&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SangamYadav&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🧠 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangamYadav&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sangam-Yadav-7&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -292,11 +196,11 @@ I'm currently interested in opportunities related to:
 
 <p align="left">
 
-<a href="https://github.com/">
+<a href="https://github.com/Sangam-Yadav-7">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sangam-yadav-571570370/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -305,5 +209,3 @@ I'm currently interested in opportunities related to:
 ---
 
 ### 💡 "Turning Data Into Insights, and Ideas Into Intelligent Solutions." 🚀
-
-⭐ Feel free to explore my repositories and projects!
